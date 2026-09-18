@@ -1,0 +1,1001 @@
+Supplier,SKU_ID,SKU_Category,Defect_Rate_PPM,Lead_Time_Variance_Days,Price_Volatility_Pct
+Volt Precision Parts,SKU-00301,Transmission Parts,299.6,1.68,2.29
+Pinnacle Fasteners Co,SKU-00187,Electrical Systems,40.3,3.98,15.12
+Meridian Electronics,SKU-00347,Sensors,29.3,3.17,1.58
+Meridian Electronics,SKU-00213,Exhaust Systems,38.1,2.81,1.81
+BlueRidge Rubber & Seals,SKU-00229,Interior Trim,55.7,1.73,1.7
+Atlas Suspension Ltd,SKU-00225,Exhaust Systems,37.1,1.93,3.08
+Volt Precision Parts,SKU-00417,Sensors,344.6,4.21,4.01
+Quantum Sensor Corp,SKU-00330,Interior Trim,32.6,2.57,1.26
+NorthStar Exhaust Systems,SKU-00198,Electrical Systems,35.7,1.87,1.35
+Volt Precision Parts,SKU-00482,Fasteners,252.1,2.36,1.23
+Cobalt Hydraulics,SKU-00418,Electrical Systems,55.1,1.58,4.45
+Volt Precision Parts,SKU-00486,Brake Systems,285.2,2.57,1.16
+Silverline Plastics,SKU-00380,Brake Systems,65.5,3.62,2.44
+Volt Precision Parts,SKU-00204,Suspension,235.9,2.71,1.3
+Cobalt Hydraulics,SKU-00402,Exhaust Systems,62.5,3.31,2.28
+Silverline Plastics,SKU-00172,Engine Components,15.8,1.52,2.75
+EverTrust Powertrain,SKU-00141,Sensors,59.6,3.61,0.93
+Cobalt Hydraulics,SKU-00235,Body & Chassis,48.6,3.52,0.87
+Granite Bearing Co,SKU-00505,Brake Systems,44.9,2.77,1.96
+Orion Chassis Works,SKU-00296,Interior Trim,22.8,2.17,1.94
+Granite Bearing Co,SKU-00200,Sensors,43.2,1.94,1.85
+IronClad Metal Works,SKU-00241,Electrical Systems,44.5,17.99,1.96
+NorthStar Exhaust Systems,SKU-00152,Brake Systems,40.1,2.59,0.66
+NorthStar Exhaust Systems,SKU-00343,Suspension,50.7,2.5,2.23
+Silverline Plastics,SKU-00183,Body & Chassis,56.5,0.55,0.62
+Horizon Interior Trim,SKU-00289,Interior Trim,48.3,2.49,2.34
+Quantum Sensor Corp,SKU-00193,Suspension,39.5,3.16,2.95
+Orion Chassis Works,SKU-00167,Transmission Parts,50.8,2.24,0.51
+Meridian Electronics,SKU-00505,Brake Systems,54.2,3.72,2.72
+IronClad Metal Works,SKU-00180,Interior Trim,34.4,19.03,2.89
+Titan Forge Industries,SKU-00037,Fasteners,63.7,1.62,2.02
+Atlas Suspension Ltd,SKU-00197,Transmission Parts,54.0,2.56,1.31
+Meridian Electronics,SKU-00277,Body & Chassis,50.0,3.08,2.27
+Quantum Sensor Corp,SKU-00050,Exhaust Systems,47.6,2.24,3.38
+Quantum Sensor Corp,SKU-00159,Interior Trim,34.2,1.91,2.21
+Vanguard Brake Systems,SKU-00087,Engine Components,55.5,1.0,1.15
+Quantum Sensor Corp,SKU-00261,Exhaust Systems,20.5,2.53,1.31
+Orion Chassis Works,SKU-00377,Exhaust Systems,40.4,3.16,1.69
+Summit Casting Group,SKU-00504,Fasteners,47.8,2.2,2.74
+EverTrust Powertrain,SKU-00203,Body & Chassis,50.7,1.81,2.07
+Silverline Plastics,SKU-00449,Interior Trim,57.5,2.89,1.08
+Titan Forge Industries,SKU-00112,Exhaust Systems,52.9,1.42,3.33
+Vanguard Brake Systems,SKU-00406,Interior Trim,57.3,2.79,2.33
+NorthStar Exhaust Systems,SKU-00293,Sensors,42.5,3.18,1.9
+Cobalt Hydraulics,SKU-00395,Exhaust Systems,47.8,3.37,1.75
+Orion Chassis Works,SKU-00393,Transmission Parts,37.6,1.31,1.35
+Cobalt Hydraulics,SKU-00277,Body & Chassis,23.1,3.23,3.65
+NorthStar Exhaust Systems,SKU-00134,Interior Trim,62.1,0.87,2.78
+Orion Chassis Works,SKU-00274,Sensors,62.1,2.04,2.28
+Summit Casting Group,SKU-00430,Exhaust Systems,20.9,2.77,1.35
+Falcon Wiring Harness,SKU-00505,Brake Systems,47.4,0.94,2.63
+Meridian Electronics,SKU-00483,Brake Systems,57.3,1.72,1.29
+Orion Chassis Works,SKU-00095,Fasteners,19.1,2.23,1.73
+Silverline Plastics,SKU-00311,Suspension,26.4,2.95,1.84
+IronClad Metal Works,SKU-00055,Body & Chassis,32.1,13.5,3.06
+BlueRidge Rubber & Seals,SKU-00348,Sensors,52.2,2.37,2.7
+Volt Precision Parts,SKU-00517,Fasteners,246.1,2.53,2.32
+Falcon Wiring Harness,SKU-00028,Fasteners,39.4,2.94,1.58
+Volt Precision Parts,SKU-00342,Brake Systems,338.0,3.05,0.0
+EverTrust Powertrain,SKU-00492,Fasteners,59.3,0.0,1.71
+IronClad Metal Works,SKU-00441,Sensors,57.3,14.57,1.03
+EverTrust Powertrain,SKU-00205,Body & Chassis,31.9,3.53,0.66
+Cobalt Hydraulics,SKU-00055,Body & Chassis,58.5,2.44,1.25
+BlueRidge Rubber & Seals,SKU-00481,Brake Systems,38.0,1.48,2.89
+Granite Bearing Co,SKU-00480,Electrical Systems,53.8,0.78,1.88
+Cobalt Hydraulics,SKU-00302,Fasteners,34.6,3.79,1.12
+EverTrust Powertrain,SKU-00510,Brake Systems,64.3,2.47,1.27
+Meridian Electronics,SKU-00003,Suspension,36.9,1.7,1.18
+BlueRidge Rubber & Seals,SKU-00321,Transmission Parts,46.1,1.27,0.46
+Volt Precision Parts,SKU-00021,Interior Trim,289.1,0.7,1.6
+BlueRidge Rubber & Seals,SKU-00487,Transmission Parts,34.1,1.63,3.8
+Pinnacle Fasteners Co,SKU-00354,Body & Chassis,45.7,2.75,7.82
+Crestline Components,SKU-00475,Suspension,37.2,2.72,1.38
+BlueRidge Rubber & Seals,SKU-00293,Sensors,55.9,1.3,1.97
+Titan Forge Industries,SKU-00044,Transmission Parts,38.0,2.66,1.69
+NorthStar Exhaust Systems,SKU-00014,Exhaust Systems,41.7,2.26,1.61
+Granite Bearing Co,SKU-00175,Suspension,50.8,2.74,2.13
+Cobalt Hydraulics,SKU-00387,Engine Components,39.8,3.3,2.01
+Titan Forge Industries,SKU-00079,Interior Trim,41.3,2.6,3.56
+BlueRidge Rubber & Seals,SKU-00444,Body & Chassis,28.9,3.27,0.69
+EverTrust Powertrain,SKU-00125,Fasteners,47.6,4.08,2.59
+IronClad Metal Works,SKU-00259,Electrical Systems,47.0,13.48,2.22
+IronClad Metal Works,SKU-00106,Exhaust Systems,42.0,12.46,1.97
+Volt Precision Parts,SKU-00243,Engine Components,320.9,1.73,1.55
+Orion Chassis Works,SKU-00236,Exhaust Systems,28.7,2.89,2.64
+Atlas Suspension Ltd,SKU-00003,Suspension,47.8,3.47,2.27
+Granite Bearing Co,SKU-00296,Interior Trim,49.7,2.8,2.13
+Orion Chassis Works,SKU-00410,Engine Components,38.6,4.71,1.84
+Vanguard Brake Systems,SKU-00487,Transmission Parts,37.0,2.93,2.4
+Silverline Plastics,SKU-00172,Engine Components,28.1,3.62,2.12
+Granite Bearing Co,SKU-00458,Suspension,31.7,3.69,2.7
+Meridian Electronics,SKU-00457,Electrical Systems,29.8,4.28,2.73
+Quantum Sensor Corp,SKU-00514,Fasteners,44.9,4.09,2.33
+Vanguard Brake Systems,SKU-00194,Transmission Parts,44.7,1.84,2.67
+Pinnacle Fasteners Co,SKU-00443,Electrical Systems,50.7,2.51,10.97
+IronClad Metal Works,SKU-00294,Transmission Parts,46.6,15.69,1.13
+EverTrust Powertrain,SKU-00031,Body & Chassis,27.3,3.07,0.12
+Horizon Interior Trim,SKU-00141,Sensors,47.5,2.02,3.25
+Quantum Sensor Corp,SKU-00350,Electrical Systems,39.1,3.16,1.88
+Falcon Wiring Harness,SKU-00084,Fasteners,46.4,3.24,1.83
+Crestline Components,SKU-00227,Fasteners,57.0,1.51,2.44
+EverTrust Powertrain,SKU-00403,Transmission Parts,56.1,3.16,3.73
+Granite Bearing Co,SKU-00078,Brake Systems,35.8,1.12,1.4
+Titan Forge Industries,SKU-00259,Electrical Systems,52.9,3.0,2.28
+Quantum Sensor Corp,SKU-00112,Exhaust Systems,31.5,3.27,1.22
+EverTrust Powertrain,SKU-00279,Engine Components,58.9,5.36,2.49
+Falcon Wiring Harness,SKU-00126,Interior Trim,52.0,2.01,0.75
+EverTrust Powertrain,SKU-00503,Sensors,37.8,1.41,1.04
+IronClad Metal Works,SKU-00040,Suspension,65.7,17.23,2.5
+Cobalt Hydraulics,SKU-00502,Suspension,41.3,2.33,2.97
+Orion Chassis Works,SKU-00412,Brake Systems,44.6,3.03,2.04
+IronClad Metal Works,SKU-00445,Interior Trim,40.9,9.67,0.62
+BlueRidge Rubber & Seals,SKU-00443,Electrical Systems,41.9,2.56,1.17
+Orion Chassis Works,SKU-00098,Suspension,44.6,2.55,0.48
+Apex Drivetrain Solutions,SKU-00485,Body & Chassis,143.4,12.22,2.51
+Horizon Interior Trim,SKU-00310,Electrical Systems,31.2,2.66,3.02
+Cobalt Hydraulics,SKU-00501,Electrical Systems,54.3,2.4,1.83
+Summit Casting Group,SKU-00457,Electrical Systems,37.4,2.97,2.36
+Horizon Interior Trim,SKU-00302,Fasteners,52.6,2.63,2.86
+Horizon Interior Trim,SKU-00195,Sensors,46.1,3.28,2.9
+Summit Casting Group,SKU-00061,Sensors,35.3,0.69,3.43
+Silverline Plastics,SKU-00053,Transmission Parts,48.1,0.79,1.63
+Granite Bearing Co,SKU-00203,Body & Chassis,54.3,2.22,1.79
+Volt Precision Parts,SKU-00422,Suspension,387.0,1.45,1.56
+EverTrust Powertrain,SKU-00263,Brake Systems,47.5,2.89,2.6
+Silverline Plastics,SKU-00251,Electrical Systems,55.9,2.7,2.59
+Summit Casting Group,SKU-00128,Exhaust Systems,41.9,2.56,2.29
+Cobalt Hydraulics,SKU-00294,Transmission Parts,47.6,3.27,2.64
+Volt Precision Parts,SKU-00332,Transmission Parts,312.4,1.69,2.25
+EverTrust Powertrain,SKU-00511,Sensors,44.7,2.69,3.97
+Orion Chassis Works,SKU-00380,Brake Systems,38.7,2.92,3.05
+Orion Chassis Works,SKU-00316,Suspension,46.2,4.84,1.9
+Volt Precision Parts,SKU-00474,Body & Chassis,327.8,1.7,1.92
+Silverline Plastics,SKU-00221,Electrical Systems,48.0,3.35,2.46
+Apex Drivetrain Solutions,SKU-00487,Transmission Parts,230.4,10.72,1.93
+Meridian Electronics,SKU-00193,Suspension,77.4,2.89,1.62
+IronClad Metal Works,SKU-00067,Sensors,36.7,11.76,2.95
+Granite Bearing Co,SKU-00218,Engine Components,40.6,2.63,2.15
+Meridian Electronics,SKU-00067,Sensors,53.8,1.65,1.34
+Silverline Plastics,SKU-00062,Exhaust Systems,47.7,3.1,2.47
+Orion Chassis Works,SKU-00459,Fasteners,35.3,3.18,1.6
+Apex Drivetrain Solutions,SKU-00414,Electrical Systems,159.1,8.17,3.24
+Apex Drivetrain Solutions,SKU-00116,Interior Trim,205.3,12.81,3.2
+Volt Precision Parts,SKU-00436,Electrical Systems,464.7,0.79,1.61
+BlueRidge Rubber & Seals,SKU-00036,Engine Components,37.6,1.65,1.34
+Cobalt Hydraulics,SKU-00148,Brake Systems,41.4,1.28,2.47
+Meridian Electronics,SKU-00368,Transmission Parts,45.6,2.98,2.61
+Cobalt Hydraulics,SKU-00158,Interior Trim,52.2,2.13,3.9
+Volt Precision Parts,SKU-00380,Brake Systems,322.9,0.64,1.4
+Cobalt Hydraulics,SKU-00455,Interior Trim,24.1,2.52,2.1
+EverTrust Powertrain,SKU-00035,Fasteners,39.4,4.51,2.64
+Granite Bearing Co,SKU-00013,Exhaust Systems,53.7,1.57,1.4
+Falcon Wiring Harness,SKU-00489,Exhaust Systems,45.4,2.67,0.71
+Cobalt Hydraulics,SKU-00271,Brake Systems,42.8,2.51,2.03
+Volt Precision Parts,SKU-00264,Sensors,265.3,1.96,2.06
+Meridian Electronics,SKU-00242,Interior Trim,46.1,3.1,3.06
+IronClad Metal Works,SKU-00226,Transmission Parts,41.5,13.95,2.55
+NorthStar Exhaust Systems,SKU-00359,Engine Components,52.3,2.07,2.83
+Falcon Wiring Harness,SKU-00302,Fasteners,56.8,3.79,3.62
+BlueRidge Rubber & Seals,SKU-00085,Suspension,34.6,2.51,2.21
+Silverline Plastics,SKU-00326,Brake Systems,43.8,1.85,1.01
+IronClad Metal Works,SKU-00348,Sensors,46.1,12.54,2.27
+Falcon Wiring Harness,SKU-00060,Suspension,35.5,1.4,2.39
+Pinnacle Fasteners Co,SKU-00196,Engine Components,46.8,3.08,20.49
+Meridian Electronics,SKU-00412,Brake Systems,48.3,2.99,1.34
+Falcon Wiring Harness,SKU-00322,Electrical Systems,29.6,4.08,1.46
+EverTrust Powertrain,SKU-00071,Exhaust Systems,32.5,2.46,2.13
+BlueRidge Rubber & Seals,SKU-00021,Interior Trim,34.2,2.2,3.18
+Volt Precision Parts,SKU-00303,Engine Components,265.7,1.11,2.95
+BlueRidge Rubber & Seals,SKU-00241,Electrical Systems,50.9,1.88,0.93
+Volt Precision Parts,SKU-00500,Body & Chassis,269.0,2.45,3.13
+Silverline Plastics,SKU-00272,Engine Components,32.6,2.42,2.74
+Falcon Wiring Harness,SKU-00485,Body & Chassis,16.4,3.53,1.25
+Pinnacle Fasteners Co,SKU-00112,Exhaust Systems,49.0,2.75,16.97
+Volt Precision Parts,SKU-00233,Engine Components,340.3,0.12,1.57
+Pinnacle Fasteners Co,SKU-00073,Body & Chassis,46.7,2.31,15.03
+EverTrust Powertrain,SKU-00299,Brake Systems,54.5,3.11,2.03
+Horizon Interior Trim,SKU-00099,Suspension,22.8,2.04,2.53
+Granite Bearing Co,SKU-00256,Electrical Systems,31.9,3.13,2.93
+Orion Chassis Works,SKU-00179,Sensors,46.5,0.0,1.18
+BlueRidge Rubber & Seals,SKU-00097,Brake Systems,67.6,1.95,0.61
+IronClad Metal Works,SKU-00051,Exhaust Systems,59.8,16.06,3.08
+EverTrust Powertrain,SKU-00267,Body & Chassis,48.3,2.96,2.49
+Summit Casting Group,SKU-00493,Exhaust Systems,53.4,4.78,2.98
+BlueRidge Rubber & Seals,SKU-00104,Engine Components,26.0,2.95,3.11
+Falcon Wiring Harness,SKU-00211,Brake Systems,59.4,2.07,3.13
+Orion Chassis Works,SKU-00117,Engine Components,56.1,5.07,1.6
+EverTrust Powertrain,SKU-00421,Sensors,38.9,2.19,1.81
+IronClad Metal Works,SKU-00216,Brake Systems,34.3,3.57,1.85
+NorthStar Exhaust Systems,SKU-00507,Interior Trim,49.4,2.01,3.75
+Atlas Suspension Ltd,SKU-00128,Exhaust Systems,45.2,3.79,2.41
+Titan Forge Industries,SKU-00042,Exhaust Systems,54.9,2.78,3.3
+IronClad Metal Works,SKU-00303,Engine Components,45.7,18.23,2.49
+IronClad Metal Works,SKU-00339,Brake Systems,41.5,17.82,3.99
+Summit Casting Group,SKU-00516,Electrical Systems,41.8,2.92,3.21
+Summit Casting Group,SKU-00454,Engine Components,58.7,2.51,0.29
+Atlas Suspension Ltd,SKU-00460,Electrical Systems,51.2,0.28,3.38
+BlueRidge Rubber & Seals,SKU-00330,Interior Trim,47.0,3.5,1.48
+Orion Chassis Works,SKU-00188,Transmission Parts,26.4,2.76,2.17
+Atlas Suspension Ltd,SKU-00224,Brake Systems,39.1,2.58,4.41
+Atlas Suspension Ltd,SKU-00070,Body & Chassis,55.0,3.55,2.88
+Meridian Electronics,SKU-00225,Exhaust Systems,62.8,2.31,0.56
+BlueRidge Rubber & Seals,SKU-00190,Transmission Parts,42.7,3.31,1.42
+Vanguard Brake Systems,SKU-00019,Fasteners,42.9,1.81,3.4
+Apex Drivetrain Solutions,SKU-00107,Exhaust Systems,210.0,12.95,2.7
+Atlas Suspension Ltd,SKU-00278,Exhaust Systems,44.6,2.7,1.25
+Titan Forge Industries,SKU-00193,Suspension,18.8,2.65,2.46
+Meridian Electronics,SKU-00517,Fasteners,59.5,4.07,3.46
+BlueRidge Rubber & Seals,SKU-00249,Exhaust Systems,33.0,2.15,2.58
+Crestline Components,SKU-00499,Sensors,75.4,3.98,3.1
+Falcon Wiring Harness,SKU-00344,Interior Trim,40.3,1.62,2.83
+Orion Chassis Works,SKU-00022,Transmission Parts,31.8,2.26,2.11
+Orion Chassis Works,SKU-00106,Exhaust Systems,64.1,2.15,0.25
+Vanguard Brake Systems,SKU-00368,Transmission Parts,51.1,1.8,2.23
+Granite Bearing Co,SKU-00284,Body & Chassis,44.0,2.23,2.83
+Crestline Components,SKU-00157,Electrical Systems,26.6,1.98,2.75
+Atlas Suspension Ltd,SKU-00272,Engine Components,37.6,0.89,2.73
+BlueRidge Rubber & Seals,SKU-00470,Sensors,58.5,2.46,0.63
+Quantum Sensor Corp,SKU-00203,Body & Chassis,53.5,0.84,2.45
+NorthStar Exhaust Systems,SKU-00024,Sensors,34.4,1.34,1.85
+Falcon Wiring Harness,SKU-00162,Suspension,42.8,1.86,2.67
+Silverline Plastics,SKU-00487,Transmission Parts,39.6,3.48,2.42
+Silverline Plastics,SKU-00397,Engine Components,36.6,1.63,0.88
+NorthStar Exhaust Systems,SKU-00436,Electrical Systems,48.5,2.15,0.3
+NorthStar Exhaust Systems,SKU-00475,Suspension,38.6,1.6,3.46
+Cobalt Hydraulics,SKU-00062,Exhaust Systems,24.6,1.06,3.09
+Vanguard Brake Systems,SKU-00147,Engine Components,61.3,1.76,1.69
+Cobalt Hydraulics,SKU-00032,Brake Systems,52.4,0.17,0.71
+Titan Forge Industries,SKU-00003,Suspension,41.6,4.05,1.85
+IronClad Metal Works,SKU-00435,Body & Chassis,46.2,21.1,3.89
+Volt Precision Parts,SKU-00488,Interior Trim,278.3,2.48,3.66
+Cobalt Hydraulics,SKU-00081,Sensors,26.7,3.53,1.39
+Volt Precision Parts,SKU-00376,Engine Components,315.6,2.26,1.43
+Summit Casting Group,SKU-00279,Engine Components,33.2,2.78,3.0
+Vanguard Brake Systems,SKU-00036,Engine Components,43.4,2.57,2.66
+Pinnacle Fasteners Co,SKU-00477,Fasteners,33.3,3.24,16.12
+Vanguard Brake Systems,SKU-00454,Engine Components,76.2,2.12,1.83
+Falcon Wiring Harness,SKU-00296,Interior Trim,54.2,3.32,1.77
+Apex Drivetrain Solutions,SKU-00369,Engine Components,163.9,12.62,1.54
+Cobalt Hydraulics,SKU-00207,Exhaust Systems,40.1,2.59,3.0
+Silverline Plastics,SKU-00413,Brake Systems,37.7,0.66,0.67
+Quantum Sensor Corp,SKU-00232,Fasteners,29.9,1.19,2.08
+IronClad Metal Works,SKU-00515,Sensors,30.7,12.84,1.58
+BlueRidge Rubber & Seals,SKU-00033,Engine Components,39.7,3.82,2.73
+IronClad Metal Works,SKU-00090,Fasteners,45.2,13.93,1.85
+Quantum Sensor Corp,SKU-00504,Fasteners,48.9,3.08,1.47
+EverTrust Powertrain,SKU-00151,Fasteners,45.4,0.47,2.37
+EverTrust Powertrain,SKU-00162,Suspension,54.1,2.22,3.65
+Granite Bearing Co,SKU-00412,Brake Systems,34.4,2.72,2.17
+Summit Casting Group,SKU-00099,Suspension,43.8,2.39,2.29
+Orion Chassis Works,SKU-00268,Transmission Parts,55.2,3.88,2.2
+Falcon Wiring Harness,SKU-00149,Fasteners,54.8,1.8,2.81
+Quantum Sensor Corp,SKU-00103,Fasteners,35.9,3.59,3.97
+Orion Chassis Works,SKU-00502,Suspension,43.5,0.31,1.76
+Apex Drivetrain Solutions,SKU-00104,Engine Components,229.3,12.66,2.4
+Meridian Electronics,SKU-00050,Exhaust Systems,57.1,2.98,3.17
+NorthStar Exhaust Systems,SKU-00351,Interior Trim,56.0,4.02,2.49
+Pinnacle Fasteners Co,SKU-00451,Sensors,55.9,2.19,11.58
+Pinnacle Fasteners Co,SKU-00067,Sensors,65.5,2.72,16.08
+Cobalt Hydraulics,SKU-00369,Engine Components,46.5,1.91,2.21
+EverTrust Powertrain,SKU-00282,Body & Chassis,62.2,3.06,0.83
+Crestline Components,SKU-00432,Exhaust Systems,42.4,4.28,2.03
+Cobalt Hydraulics,SKU-00067,Sensors,23.4,4.39,2.75
+EverTrust Powertrain,SKU-00508,Brake Systems,44.2,2.13,3.07
+IronClad Metal Works,SKU-00322,Electrical Systems,38.5,21.17,2.63
+Horizon Interior Trim,SKU-00438,Sensors,47.9,2.65,2.06
+Quantum Sensor Corp,SKU-00189,Brake Systems,57.5,1.63,0.9
+Volt Precision Parts,SKU-00491,Sensors,343.8,3.13,2.58
+Granite Bearing Co,SKU-00326,Brake Systems,49.9,2.18,2.83
+Horizon Interior Trim,SKU-00067,Sensors,44.5,2.01,1.95
+Titan Forge Industries,SKU-00480,Electrical Systems,69.2,0.77,2.6
+IronClad Metal Works,SKU-00414,Electrical Systems,24.9,15.51,1.85
+Pinnacle Fasteners Co,SKU-00157,Electrical Systems,20.0,2.89,12.28
+Silverline Plastics,SKU-00284,Body & Chassis,19.8,3.34,3.35
+Volt Precision Parts,SKU-00202,Sensors,392.0,2.86,2.24
+Meridian Electronics,SKU-00283,Suspension,60.9,4.18,3.11
+Summit Casting Group,SKU-00502,Suspension,33.7,2.7,2.55
+Titan Forge Industries,SKU-00468,Interior Trim,23.3,2.97,4.02
+BlueRidge Rubber & Seals,SKU-00113,Interior Trim,52.7,3.97,2.35
+Titan Forge Industries,SKU-00506,Body & Chassis,44.1,2.88,1.55
+Volt Precision Parts,SKU-00228,Interior Trim,257.0,3.77,3.3
+Meridian Electronics,SKU-00367,Body & Chassis,33.1,3.47,2.13
+Cobalt Hydraulics,SKU-00398,Electrical Systems,49.1,2.96,3.0
+Orion Chassis Works,SKU-00252,Body & Chassis,46.0,3.91,2.45
+Orion Chassis Works,SKU-00238,Body & Chassis,52.5,1.67,3.93
+Orion Chassis Works,SKU-00238,Body & Chassis,50.6,3.21,0.91
+Granite Bearing Co,SKU-00449,Interior Trim,35.1,3.74,2.43
+Volt Precision Parts,SKU-00201,Transmission Parts,204.7,3.54,1.76
+Quantum Sensor Corp,SKU-00146,Fasteners,61.9,2.41,2.36
+Crestline Components,SKU-00189,Brake Systems,59.1,1.6,1.41
+Vanguard Brake Systems,SKU-00102,Electrical Systems,42.6,3.33,1.14
+Cobalt Hydraulics,SKU-00204,Suspension,25.0,3.32,1.72
+Titan Forge Industries,SKU-00060,Suspension,40.3,0.64,1.66
+Granite Bearing Co,SKU-00047,Body & Chassis,44.9,3.43,1.58
+Silverline Plastics,SKU-00377,Exhaust Systems,64.9,1.82,1.65
+NorthStar Exhaust Systems,SKU-00041,Electrical Systems,63.4,2.71,1.76
+Silverline Plastics,SKU-00296,Interior Trim,43.1,3.85,3.37
+BlueRidge Rubber & Seals,SKU-00406,Interior Trim,35.2,2.46,2.27
+Cobalt Hydraulics,SKU-00377,Exhaust Systems,33.2,2.44,2.2
+Vanguard Brake Systems,SKU-00232,Fasteners,58.7,3.71,1.94
+NorthStar Exhaust Systems,SKU-00101,Fasteners,42.4,3.16,1.73
+NorthStar Exhaust Systems,SKU-00484,Exhaust Systems,52.1,2.41,1.42
+Volt Precision Parts,SKU-00435,Body & Chassis,257.4,3.95,2.07
+Atlas Suspension Ltd,SKU-00319,Sensors,64.7,1.99,2.43
+Silverline Plastics,SKU-00046,Sensors,73.7,1.44,0.68
+BlueRidge Rubber & Seals,SKU-00019,Fasteners,60.4,1.67,2.18
+Pinnacle Fasteners Co,SKU-00164,Body & Chassis,38.0,2.77,10.46
+Vanguard Brake Systems,SKU-00082,Body & Chassis,42.8,2.95,1.39
+Pinnacle Fasteners Co,SKU-00448,Sensors,36.6,2.15,8.93
+Apex Drivetrain Solutions,SKU-00108,Suspension,163.1,11.36,1.88
+EverTrust Powertrain,SKU-00147,Engine Components,41.7,2.48,1.68
+Horizon Interior Trim,SKU-00508,Brake Systems,53.3,3.94,1.83
+Summit Casting Group,SKU-00426,Electrical Systems,50.8,2.26,2.49
+BlueRidge Rubber & Seals,SKU-00114,Body & Chassis,63.8,3.01,0.78
+Apex Drivetrain Solutions,SKU-00200,Sensors,198.2,14.7,2.02
+Summit Casting Group,SKU-00269,Suspension,56.9,1.81,1.01
+Falcon Wiring Harness,SKU-00346,Brake Systems,46.7,0.74,2.01
+Orion Chassis Works,SKU-00487,Transmission Parts,60.4,0.59,1.18
+EverTrust Powertrain,SKU-00453,Body & Chassis,32.6,2.44,1.91
+BlueRidge Rubber & Seals,SKU-00509,Brake Systems,61.8,3.45,2.6
+Titan Forge Industries,SKU-00022,Transmission Parts,46.7,2.89,1.51
+Granite Bearing Co,SKU-00123,Suspension,55.3,1.39,2.87
+Silverline Plastics,SKU-00293,Sensors,59.2,2.71,2.06
+Falcon Wiring Harness,SKU-00026,Suspension,49.8,0.0,2.44
+EverTrust Powertrain,SKU-00185,Body & Chassis,43.6,2.45,2.77
+Granite Bearing Co,SKU-00080,Suspension,44.1,1.36,2.09
+Silverline Plastics,SKU-00486,Brake Systems,45.8,2.61,2.33
+IronClad Metal Works,SKU-00033,Engine Components,57.5,11.11,2.34
+Falcon Wiring Harness,SKU-00078,Brake Systems,60.5,0.77,2.34
+Horizon Interior Trim,SKU-00102,Electrical Systems,38.0,2.13,1.48
+Crestline Components,SKU-00078,Brake Systems,43.0,4.34,1.19
+Orion Chassis Works,SKU-00296,Interior Trim,31.0,1.2,3.58
+EverTrust Powertrain,SKU-00190,Transmission Parts,39.5,2.47,1.88
+EverTrust Powertrain,SKU-00475,Suspension,33.7,2.26,4.17
+Summit Casting Group,SKU-00136,Transmission Parts,61.7,1.65,2.72
+Falcon Wiring Harness,SKU-00280,Engine Components,35.0,0.72,3.02
+Granite Bearing Co,SKU-00344,Interior Trim,58.9,3.55,1.82
+Vanguard Brake Systems,SKU-00326,Brake Systems,43.0,3.25,2.51
+IronClad Metal Works,SKU-00415,Engine Components,40.3,8.71,2.29
+Volt Precision Parts,SKU-00105,Exhaust Systems,369.3,1.3,2.71
+Granite Bearing Co,SKU-00264,Sensors,49.0,3.25,2.9
+Titan Forge Industries,SKU-00417,Sensors,36.7,0.88,1.77
+EverTrust Powertrain,SKU-00449,Interior Trim,55.7,1.96,1.64
+Titan Forge Industries,SKU-00322,Electrical Systems,23.1,4.25,2.86
+EverTrust Powertrain,SKU-00339,Brake Systems,54.2,3.47,2.66
+Atlas Suspension Ltd,SKU-00450,Brake Systems,42.1,2.34,1.86
+Granite Bearing Co,SKU-00325,Sensors,76.6,3.06,1.83
+Volt Precision Parts,SKU-00494,Suspension,335.6,1.49,3.4
+Crestline Components,SKU-00067,Sensors,37.1,3.0,3.05
+Cobalt Hydraulics,SKU-00181,Sensors,49.6,2.59,2.21
+Silverline Plastics,SKU-00059,Exhaust Systems,44.3,1.92,1.84
+Cobalt Hydraulics,SKU-00048,Fasteners,62.8,2.39,1.57
+Apex Drivetrain Solutions,SKU-00246,Engine Components,159.3,14.3,2.74
+Quantum Sensor Corp,SKU-00118,Electrical Systems,51.7,2.24,2.66
+Volt Precision Parts,SKU-00212,Exhaust Systems,274.6,2.24,2.98
+Volt Precision Parts,SKU-00228,Interior Trim,358.1,1.52,1.52
+Orion Chassis Works,SKU-00323,Suspension,46.3,4.23,0.67
+Falcon Wiring Harness,SKU-00492,Fasteners,48.3,1.12,1.69
+Granite Bearing Co,SKU-00442,Transmission Parts,40.6,2.08,1.77
+Silverline Plastics,SKU-00197,Transmission Parts,45.1,1.96,1.03
+Falcon Wiring Harness,SKU-00170,Engine Components,54.4,3.25,2.87
+Cobalt Hydraulics,SKU-00401,Sensors,26.5,2.8,2.74
+Volt Precision Parts,SKU-00065,Body & Chassis,253.3,2.51,2.11
+Meridian Electronics,SKU-00282,Body & Chassis,67.1,4.42,0.87
+BlueRidge Rubber & Seals,SKU-00220,Sensors,74.9,1.58,2.98
+Silverline Plastics,SKU-00096,Brake Systems,56.6,1.5,2.59
+Apex Drivetrain Solutions,SKU-00321,Transmission Parts,175.7,12.66,2.38
+NorthStar Exhaust Systems,SKU-00167,Transmission Parts,59.4,2.58,2.07
+Orion Chassis Works,SKU-00097,Brake Systems,58.2,3.08,2.79
+Apex Drivetrain Solutions,SKU-00340,Sensors,153.4,7.86,1.75
+Atlas Suspension Ltd,SKU-00091,Body & Chassis,37.6,3.29,2.98
+Silverline Plastics,SKU-00350,Electrical Systems,43.1,3.93,3.29
+Orion Chassis Works,SKU-00085,Suspension,47.9,1.68,3.46
+Meridian Electronics,SKU-00227,Fasteners,44.3,2.63,1.93
+Silverline Plastics,SKU-00421,Sensors,34.3,1.03,2.71
+Vanguard Brake Systems,SKU-00119,Brake Systems,35.6,5.56,1.33
+Silverline Plastics,SKU-00400,Transmission Parts,29.9,3.01,3.42
+Summit Casting Group,SKU-00376,Engine Components,45.8,3.07,0.73
+BlueRidge Rubber & Seals,SKU-00470,Sensors,36.9,1.43,0.68
+Atlas Suspension Ltd,SKU-00088,Transmission Parts,46.4,0.26,1.14
+Summit Casting Group,SKU-00372,Suspension,38.6,1.67,2.52
+Silverline Plastics,SKU-00488,Interior Trim,48.7,3.39,2.8
+Pinnacle Fasteners Co,SKU-00397,Engine Components,58.7,2.5,14.47
+Volt Precision Parts,SKU-00098,Suspension,338.1,2.64,1.88
+Vanguard Brake Systems,SKU-00428,Fasteners,41.0,1.68,2.54
+Falcon Wiring Harness,SKU-00056,Engine Components,43.9,1.84,1.67
+Cobalt Hydraulics,SKU-00307,Transmission Parts,30.5,3.48,2.26
+EverTrust Powertrain,SKU-00259,Electrical Systems,34.6,3.31,1.75
+Summit Casting Group,SKU-00277,Body & Chassis,28.1,3.52,1.77
+Atlas Suspension Ltd,SKU-00271,Brake Systems,40.1,2.54,3.11
+IronClad Metal Works,SKU-00017,Interior Trim,45.2,10.6,2.64
+BlueRidge Rubber & Seals,SKU-00265,Sensors,39.2,4.39,2.2
+EverTrust Powertrain,SKU-00488,Interior Trim,18.2,2.86,3.76
+Falcon Wiring Harness,SKU-00228,Interior Trim,63.9,4.33,1.38
+BlueRidge Rubber & Seals,SKU-00144,Body & Chassis,55.9,1.78,2.38
+Quantum Sensor Corp,SKU-00518,Engine Components,29.7,1.86,1.66
+Silverline Plastics,SKU-00052,Electrical Systems,55.8,3.3,2.42
+Titan Forge Industries,SKU-00253,Electrical Systems,28.8,2.19,1.6
+IronClad Metal Works,SKU-00267,Body & Chassis,55.4,21.3,3.05
+Quantum Sensor Corp,SKU-00249,Exhaust Systems,35.9,0.0,0.79
+Volt Precision Parts,SKU-00480,Electrical Systems,388.2,2.1,1.6
+Meridian Electronics,SKU-00220,Sensors,64.7,3.77,2.22
+Apex Drivetrain Solutions,SKU-00507,Interior Trim,168.3,10.6,2.38
+Horizon Interior Trim,SKU-00035,Fasteners,64.2,2.92,2.78
+Orion Chassis Works,SKU-00382,Sensors,59.0,1.33,2.8
+Vanguard Brake Systems,SKU-00309,Transmission Parts,41.5,0.0,0.5
+Atlas Suspension Ltd,SKU-00126,Interior Trim,32.8,3.03,2.29
+EverTrust Powertrain,SKU-00119,Brake Systems,47.2,4.45,1.18
+Granite Bearing Co,SKU-00375,Fasteners,44.7,2.8,1.61
+Crestline Components,SKU-00332,Transmission Parts,45.3,0.9,3.33
+Summit Casting Group,SKU-00318,Exhaust Systems,36.8,4.53,2.17
+Silverline Plastics,SKU-00027,Body & Chassis,57.3,2.45,2.18
+Meridian Electronics,SKU-00311,Suspension,38.0,2.62,2.45
+Vanguard Brake Systems,SKU-00511,Sensors,35.6,2.37,1.71
+Silverline Plastics,SKU-00010,Engine Components,72.6,2.41,3.44
+NorthStar Exhaust Systems,SKU-00244,Suspension,42.7,2.76,1.14
+Falcon Wiring Harness,SKU-00258,Electrical Systems,39.6,2.71,3.47
+BlueRidge Rubber & Seals,SKU-00467,Electrical Systems,47.7,3.88,2.71
+Orion Chassis Works,SKU-00148,Brake Systems,64.5,2.44,4.11
+Summit Casting Group,SKU-00248,Body & Chassis,39.2,1.73,1.23
+Meridian Electronics,SKU-00373,Body & Chassis,73.0,3.32,1.93
+Vanguard Brake Systems,SKU-00032,Brake Systems,60.0,3.19,3.77
+IronClad Metal Works,SKU-00417,Sensors,26.4,14.81,1.83
+Silverline Plastics,SKU-00428,Fasteners,21.3,3.56,1.98
+Summit Casting Group,SKU-00375,Fasteners,53.9,4.86,1.92
+Crestline Components,SKU-00338,Transmission Parts,39.9,2.62,2.99
+Granite Bearing Co,SKU-00389,Fasteners,38.2,1.87,3.05
+Granite Bearing Co,SKU-00407,Body & Chassis,49.5,0.46,1.22
+Horizon Interior Trim,SKU-00470,Sensors,63.0,2.9,1.59
+Titan Forge Industries,SKU-00223,Exhaust Systems,43.0,2.51,2.79
+EverTrust Powertrain,SKU-00238,Body & Chassis,28.7,1.66,2.42
+Orion Chassis Works,SKU-00332,Transmission Parts,43.8,3.07,1.22
+Cobalt Hydraulics,SKU-00101,Fasteners,49.3,3.59,2.59
+Silverline Plastics,SKU-00446,Suspension,46.7,2.4,1.53
+Granite Bearing Co,SKU-00401,Sensors,44.1,3.76,2.1
+Pinnacle Fasteners Co,SKU-00329,Electrical Systems,34.3,2.01,14.14
+Crestline Components,SKU-00157,Electrical Systems,40.5,2.99,2.62
+Volt Precision Parts,SKU-00181,Sensors,358.9,3.92,3.0
+Orion Chassis Works,SKU-00227,Fasteners,33.8,1.6,2.14
+EverTrust Powertrain,SKU-00345,Sensors,39.6,1.36,1.85
+NorthStar Exhaust Systems,SKU-00405,Body & Chassis,39.3,1.83,1.95
+Horizon Interior Trim,SKU-00350,Electrical Systems,59.1,2.7,4.18
+Apex Drivetrain Solutions,SKU-00484,Exhaust Systems,186.8,10.13,2.2
+EverTrust Powertrain,SKU-00500,Body & Chassis,48.1,2.94,3.86
+Volt Precision Parts,SKU-00367,Body & Chassis,263.5,3.36,2.37
+Volt Precision Parts,SKU-00193,Suspension,223.6,3.27,3.21
+Meridian Electronics,SKU-00312,Suspension,34.7,2.49,0.82
+Volt Precision Parts,SKU-00222,Body & Chassis,240.8,3.55,1.83
+Horizon Interior Trim,SKU-00328,Engine Components,31.7,2.73,1.78
+NorthStar Exhaust Systems,SKU-00423,Exhaust Systems,39.4,3.24,1.27
+Vanguard Brake Systems,SKU-00193,Suspension,34.1,2.65,2.98
+Volt Precision Parts,SKU-00263,Brake Systems,378.1,1.83,2.95
+IronClad Metal Works,SKU-00024,Sensors,35.6,24.22,1.29
+Quantum Sensor Corp,SKU-00384,Brake Systems,60.9,1.84,3.81
+Volt Precision Parts,SKU-00255,Suspension,342.5,1.48,1.78
+Falcon Wiring Harness,SKU-00240,Suspension,54.4,3.55,2.14
+Meridian Electronics,SKU-00277,Body & Chassis,45.5,3.26,2.31
+Summit Casting Group,SKU-00113,Interior Trim,29.5,1.69,2.39
+Quantum Sensor Corp,SKU-00311,Suspension,59.6,4.12,2.82
+Atlas Suspension Ltd,SKU-00388,Fasteners,48.4,3.25,1.67
+Apex Drivetrain Solutions,SKU-00182,Electrical Systems,173.9,8.53,1.2
+IronClad Metal Works,SKU-00069,Engine Components,49.0,16.83,2.75
+Silverline Plastics,SKU-00202,Sensors,51.6,2.74,2.65
+Apex Drivetrain Solutions,SKU-00104,Engine Components,178.3,12.24,1.62
+NorthStar Exhaust Systems,SKU-00195,Sensors,49.4,3.17,1.66
+Titan Forge Industries,SKU-00326,Brake Systems,45.6,1.88,1.78
+Vanguard Brake Systems,SKU-00059,Exhaust Systems,31.5,3.77,3.05
+Atlas Suspension Ltd,SKU-00389,Fasteners,51.4,4.47,2.05
+Granite Bearing Co,SKU-00117,Engine Components,81.4,2.27,2.4
+Cobalt Hydraulics,SKU-00466,Sensors,40.2,2.87,2.87
+Meridian Electronics,SKU-00381,Engine Components,43.6,4.28,2.39
+Vanguard Brake Systems,SKU-00142,Brake Systems,48.2,1.59,2.53
+Meridian Electronics,SKU-00293,Sensors,43.4,1.89,1.58
+Titan Forge Industries,SKU-00058,Electrical Systems,77.1,2.24,1.03
+Orion Chassis Works,SKU-00052,Electrical Systems,36.6,2.45,2.64
+Meridian Electronics,SKU-00498,Transmission Parts,51.7,3.18,1.68
+Vanguard Brake Systems,SKU-00418,Electrical Systems,49.1,1.62,1.7
+EverTrust Powertrain,SKU-00081,Sensors,34.0,1.31,3.05
+Volt Precision Parts,SKU-00147,Engine Components,347.9,3.48,2.23
+Horizon Interior Trim,SKU-00103,Fasteners,54.3,0.74,2.89
+Falcon Wiring Harness,SKU-00206,Brake Systems,47.1,3.13,2.5
+IronClad Metal Works,SKU-00152,Brake Systems,33.2,9.26,1.63
+Volt Precision Parts,SKU-00171,Electrical Systems,341.1,3.19,1.11
+IronClad Metal Works,SKU-00276,Body & Chassis,33.2,12.75,1.91
+Silverline Plastics,SKU-00099,Suspension,28.7,1.08,1.54
+Apex Drivetrain Solutions,SKU-00460,Electrical Systems,183.5,7.46,2.11
+Pinnacle Fasteners Co,SKU-00379,Transmission Parts,57.7,1.2,12.84
+Apex Drivetrain Solutions,SKU-00396,Fasteners,221.0,9.75,1.74
+Volt Precision Parts,SKU-00089,Exhaust Systems,374.0,2.19,3.08
+BlueRidge Rubber & Seals,SKU-00369,Engine Components,50.1,2.16,2.58
+Meridian Electronics,SKU-00435,Body & Chassis,48.8,3.52,1.76
+Crestline Components,SKU-00092,Fasteners,45.5,2.44,2.76
+BlueRidge Rubber & Seals,SKU-00391,Exhaust Systems,32.7,3.52,2.57
+Cobalt Hydraulics,SKU-00186,Body & Chassis,29.2,3.71,3.99
+Apex Drivetrain Solutions,SKU-00410,Engine Components,220.1,15.28,2.27
+Silverline Plastics,SKU-00249,Exhaust Systems,25.1,0.66,2.4
+BlueRidge Rubber & Seals,SKU-00418,Electrical Systems,37.9,1.59,2.15
+Pinnacle Fasteners Co,SKU-00077,Transmission Parts,52.4,1.05,12.06
+Granite Bearing Co,SKU-00203,Body & Chassis,63.1,1.42,2.9
+Silverline Plastics,SKU-00143,Brake Systems,39.2,3.05,3.08
+Meridian Electronics,SKU-00130,Suspension,53.9,3.41,1.28
+Silverline Plastics,SKU-00161,Sensors,58.4,1.65,2.41
+Horizon Interior Trim,SKU-00199,Transmission Parts,48.1,2.99,2.47
+BlueRidge Rubber & Seals,SKU-00067,Sensors,34.9,1.15,2.9
+EverTrust Powertrain,SKU-00368,Transmission Parts,47.2,3.65,2.16
+Quantum Sensor Corp,SKU-00287,Electrical Systems,28.1,3.47,1.9
+Cobalt Hydraulics,SKU-00432,Exhaust Systems,49.1,1.85,3.52
+Vanguard Brake Systems,SKU-00367,Body & Chassis,34.5,2.16,2.29
+Cobalt Hydraulics,SKU-00078,Brake Systems,31.9,2.83,3.49
+BlueRidge Rubber & Seals,SKU-00037,Fasteners,39.1,2.9,0.0
+Meridian Electronics,SKU-00220,Sensors,44.5,2.19,1.55
+Atlas Suspension Ltd,SKU-00251,Electrical Systems,58.0,2.17,2.06
+Vanguard Brake Systems,SKU-00125,Fasteners,40.5,0.58,1.29
+Volt Precision Parts,SKU-00407,Body & Chassis,362.9,0.39,1.59
+Apex Drivetrain Solutions,SKU-00303,Engine Components,164.0,16.23,2.81
+Vanguard Brake Systems,SKU-00389,Fasteners,38.3,3.8,1.61
+Apex Drivetrain Solutions,SKU-00057,Interior Trim,220.4,6.92,3.06
+Pinnacle Fasteners Co,SKU-00424,Interior Trim,40.1,1.47,12.81
+Falcon Wiring Harness,SKU-00108,Suspension,48.3,2.01,2.64
+Falcon Wiring Harness,SKU-00234,Exhaust Systems,38.0,3.12,2.55
+Falcon Wiring Harness,SKU-00229,Interior Trim,44.3,2.06,2.32
+Vanguard Brake Systems,SKU-00427,Fasteners,51.6,4.56,2.95
+Silverline Plastics,SKU-00144,Body & Chassis,56.7,5.59,2.61
+BlueRidge Rubber & Seals,SKU-00126,Interior Trim,50.8,3.2,1.39
+IronClad Metal Works,SKU-00177,Exhaust Systems,39.7,13.72,2.72
+IronClad Metal Works,SKU-00188,Transmission Parts,42.9,16.62,3.07
+Orion Chassis Works,SKU-00095,Fasteners,55.4,2.34,1.66
+Pinnacle Fasteners Co,SKU-00092,Fasteners,58.6,3.27,8.36
+NorthStar Exhaust Systems,SKU-00121,Body & Chassis,41.2,2.67,2.82
+EverTrust Powertrain,SKU-00244,Suspension,55.9,2.78,2.67
+Apex Drivetrain Solutions,SKU-00179,Sensors,182.6,8.98,1.99
+Apex Drivetrain Solutions,SKU-00204,Suspension,180.8,10.9,0.69
+EverTrust Powertrain,SKU-00374,Transmission Parts,40.2,2.56,1.97
+BlueRidge Rubber & Seals,SKU-00126,Interior Trim,42.0,2.99,1.34
+IronClad Metal Works,SKU-00474,Body & Chassis,25.5,14.43,2.81
+Silverline Plastics,SKU-00391,Exhaust Systems,65.3,3.28,1.03
+Silverline Plastics,SKU-00091,Body & Chassis,42.2,2.76,2.34
+NorthStar Exhaust Systems,SKU-00164,Body & Chassis,51.5,1.58,2.25
+BlueRidge Rubber & Seals,SKU-00096,Brake Systems,50.0,3.33,1.56
+Summit Casting Group,SKU-00142,Brake Systems,40.9,0.0,1.7
+Volt Precision Parts,SKU-00191,Suspension,281.2,1.48,2.33
+BlueRidge Rubber & Seals,SKU-00069,Engine Components,44.3,0.24,2.37
+Summit Casting Group,SKU-00008,Suspension,33.9,2.99,1.17
+Orion Chassis Works,SKU-00229,Interior Trim,45.4,2.22,2.44
+Cobalt Hydraulics,SKU-00365,Electrical Systems,46.5,2.24,0.97
+Apex Drivetrain Solutions,SKU-00158,Interior Trim,120.9,9.25,2.19
+BlueRidge Rubber & Seals,SKU-00448,Sensors,37.7,3.13,1.98
+Meridian Electronics,SKU-00193,Suspension,33.4,2.22,2.38
+Silverline Plastics,SKU-00469,Electrical Systems,48.9,4.38,1.66
+Meridian Electronics,SKU-00123,Suspension,44.1,2.93,2.18
+BlueRidge Rubber & Seals,SKU-00281,Brake Systems,39.0,0.95,1.79
+Crestline Components,SKU-00397,Engine Components,32.1,0.77,1.56
+Atlas Suspension Ltd,SKU-00031,Body & Chassis,32.4,3.08,2.68
+Orion Chassis Works,SKU-00484,Exhaust Systems,34.2,2.24,0.71
+Falcon Wiring Harness,SKU-00190,Transmission Parts,39.1,2.9,2.86
+Crestline Components,SKU-00259,Electrical Systems,36.4,3.55,0.99
+Granite Bearing Co,SKU-00327,Brake Systems,30.0,3.21,3.54
+EverTrust Powertrain,SKU-00335,Body & Chassis,50.9,2.46,0.44
+Atlas Suspension Ltd,SKU-00013,Exhaust Systems,20.7,2.63,1.91
+NorthStar Exhaust Systems,SKU-00451,Sensors,31.7,2.57,2.29
+Apex Drivetrain Solutions,SKU-00325,Sensors,217.8,11.41,3.18
+Cobalt Hydraulics,SKU-00520,Interior Trim,45.1,2.38,3.05
+NorthStar Exhaust Systems,SKU-00246,Engine Components,33.3,5.31,2.5
+Atlas Suspension Ltd,SKU-00320,Exhaust Systems,49.6,3.03,3.7
+Volt Precision Parts,SKU-00230,Electrical Systems,353.6,0.89,3.32
+Silverline Plastics,SKU-00463,Exhaust Systems,40.9,2.61,1.18
+Quantum Sensor Corp,SKU-00433,Fasteners,51.3,1.85,2.28
+Orion Chassis Works,SKU-00473,Body & Chassis,41.6,4.43,3.79
+IronClad Metal Works,SKU-00263,Brake Systems,45.6,16.29,1.9
+EverTrust Powertrain,SKU-00412,Brake Systems,58.3,2.17,1.86
+Pinnacle Fasteners Co,SKU-00187,Electrical Systems,56.7,1.96,13.38
+Meridian Electronics,SKU-00240,Suspension,26.0,3.2,3.75
+Silverline Plastics,SKU-00396,Fasteners,53.7,3.96,1.52
+Silverline Plastics,SKU-00043,Exhaust Systems,47.8,1.56,2.02
+Meridian Electronics,SKU-00370,Exhaust Systems,54.3,2.6,1.07
+Titan Forge Industries,SKU-00009,Brake Systems,29.2,1.12,2.59
+Falcon Wiring Harness,SKU-00302,Fasteners,69.8,3.86,0.68
+Silverline Plastics,SKU-00249,Exhaust Systems,62.1,3.44,0.96
+Quantum Sensor Corp,SKU-00244,Suspension,41.4,3.6,2.64
+NorthStar Exhaust Systems,SKU-00258,Electrical Systems,29.3,3.11,0.49
+Falcon Wiring Harness,SKU-00256,Electrical Systems,42.3,3.64,2.21
+Falcon Wiring Harness,SKU-00212,Exhaust Systems,39.0,3.39,2.98
+Granite Bearing Co,SKU-00235,Body & Chassis,60.7,3.37,3.07
+Crestline Components,SKU-00296,Interior Trim,53.8,2.77,2.27
+Volt Precision Parts,SKU-00398,Electrical Systems,297.0,1.29,1.44
+Silverline Plastics,SKU-00288,Interior Trim,41.6,2.74,3.35
+Silverline Plastics,SKU-00335,Body & Chassis,44.5,3.5,3.06
+Cobalt Hydraulics,SKU-00436,Electrical Systems,42.2,3.09,2.01
+Volt Precision Parts,SKU-00515,Sensors,382.7,3.14,1.25
+Meridian Electronics,SKU-00057,Interior Trim,46.9,4.15,2.06
+Falcon Wiring Harness,SKU-00371,Transmission Parts,50.4,3.05,1.37
+Apex Drivetrain Solutions,SKU-00118,Electrical Systems,200.4,6.82,1.7
+EverTrust Powertrain,SKU-00103,Fasteners,57.9,2.86,1.96
+Quantum Sensor Corp,SKU-00413,Brake Systems,50.4,2.44,2.21
+Falcon Wiring Harness,SKU-00036,Engine Components,52.9,1.77,2.23
+Silverline Plastics,SKU-00441,Sensors,41.3,0.91,1.46
+Quantum Sensor Corp,SKU-00401,Sensors,63.8,2.88,1.14
+Vanguard Brake Systems,SKU-00518,Engine Components,26.5,2.39,3.45
+BlueRidge Rubber & Seals,SKU-00348,Sensors,42.8,3.81,2.48
+BlueRidge Rubber & Seals,SKU-00454,Engine Components,50.7,1.16,2.95
+Atlas Suspension Ltd,SKU-00062,Exhaust Systems,41.0,3.36,1.55
+BlueRidge Rubber & Seals,SKU-00463,Exhaust Systems,47.1,2.85,2.08
+EverTrust Powertrain,SKU-00084,Fasteners,49.9,2.23,1.68
+Titan Forge Industries,SKU-00164,Body & Chassis,64.3,3.55,1.59
+Meridian Electronics,SKU-00067,Sensors,51.8,1.76,1.25
+Quantum Sensor Corp,SKU-00209,Brake Systems,57.4,0.8,2.94
+Quantum Sensor Corp,SKU-00390,Electrical Systems,42.0,2.29,2.53
+IronClad Metal Works,SKU-00140,Body & Chassis,52.0,12.28,2.77
+Pinnacle Fasteners Co,SKU-00428,Fasteners,46.4,1.24,12.96
+Orion Chassis Works,SKU-00316,Suspension,61.6,4.18,2.77
+Vanguard Brake Systems,SKU-00328,Engine Components,30.7,2.99,2.88
+EverTrust Powertrain,SKU-00489,Exhaust Systems,53.7,3.28,2.49
+Meridian Electronics,SKU-00225,Exhaust Systems,44.1,1.89,0.68
+Volt Precision Parts,SKU-00180,Interior Trim,328.7,2.69,2.65
+Granite Bearing Co,SKU-00518,Engine Components,28.9,3.15,3.84
+Silverline Plastics,SKU-00290,Body & Chassis,45.9,2.44,2.45
+Summit Casting Group,SKU-00320,Exhaust Systems,69.4,1.48,2.36
+Meridian Electronics,SKU-00155,Body & Chassis,35.4,1.95,2.16
+Pinnacle Fasteners Co,SKU-00113,Interior Trim,61.2,4.3,14.93
+NorthStar Exhaust Systems,SKU-00089,Exhaust Systems,40.5,4.99,1.86
+Titan Forge Industries,SKU-00117,Engine Components,38.1,0.73,3.32
+Meridian Electronics,SKU-00102,Electrical Systems,56.6,4.92,1.09
+Volt Precision Parts,SKU-00389,Fasteners,390.2,2.57,2.84
+Titan Forge Industries,SKU-00031,Body & Chassis,25.2,3.97,2.83
+EverTrust Powertrain,SKU-00328,Engine Components,44.5,3.15,1.59
+Orion Chassis Works,SKU-00494,Suspension,38.0,2.04,0.72
+Titan Forge Industries,SKU-00399,Brake Systems,55.3,3.69,1.64
+Volt Precision Parts,SKU-00210,Exhaust Systems,329.2,2.23,2.46
+Meridian Electronics,SKU-00031,Body & Chassis,37.5,1.62,3.04
+Summit Casting Group,SKU-00434,Electrical Systems,44.2,4.52,2.24
+Granite Bearing Co,SKU-00002,Exhaust Systems,33.9,3.73,2.7
+Silverline Plastics,SKU-00355,Sensors,53.7,3.69,1.68
+Silverline Plastics,SKU-00349,Electrical Systems,43.5,2.33,1.17
+EverTrust Powertrain,SKU-00100,Electrical Systems,41.8,3.84,2.39
+EverTrust Powertrain,SKU-00385,Engine Components,28.8,0.94,3.53
+EverTrust Powertrain,SKU-00092,Fasteners,43.9,1.85,1.98
+Volt Precision Parts,SKU-00118,Electrical Systems,228.7,3.92,1.89
+IronClad Metal Works,SKU-00423,Exhaust Systems,61.4,16.23,3.34
+Summit Casting Group,SKU-00510,Brake Systems,48.1,3.35,2.78
+Crestline Components,SKU-00138,Engine Components,52.5,2.85,2.01
+Volt Precision Parts,SKU-00480,Electrical Systems,415.3,1.59,2.2
+Cobalt Hydraulics,SKU-00475,Suspension,45.2,2.9,1.86
+BlueRidge Rubber & Seals,SKU-00401,Sensors,48.8,2.33,0.93
+Crestline Components,SKU-00073,Body & Chassis,45.1,1.4,0.81
+Pinnacle Fasteners Co,SKU-00156,Suspension,46.6,2.99,15.19
+Meridian Electronics,SKU-00353,Brake Systems,51.8,0.57,1.11
+Pinnacle Fasteners Co,SKU-00520,Interior Trim,68.7,1.45,15.45
+Silverline Plastics,SKU-00424,Interior Trim,36.8,2.58,1.69
+BlueRidge Rubber & Seals,SKU-00219,Body & Chassis,51.7,2.64,1.84
+Falcon Wiring Harness,SKU-00123,Suspension,32.4,2.77,1.23
+Summit Casting Group,SKU-00500,Body & Chassis,50.1,5.13,3.28
+Quantum Sensor Corp,SKU-00144,Body & Chassis,53.6,2.41,0.65
+Atlas Suspension Ltd,SKU-00178,Electrical Systems,29.1,3.78,1.57
+Granite Bearing Co,SKU-00502,Suspension,36.6,2.33,1.35
+Granite Bearing Co,SKU-00293,Sensors,30.3,2.45,1.49
+Meridian Electronics,SKU-00138,Engine Components,36.1,1.72,2.62
+EverTrust Powertrain,SKU-00003,Suspension,42.2,2.32,2.68
+IronClad Metal Works,SKU-00224,Brake Systems,43.3,14.75,2.58
+Silverline Plastics,SKU-00513,Fasteners,53.0,2.35,2.26
+Volt Precision Parts,SKU-00225,Exhaust Systems,267.0,1.64,2.82
+Meridian Electronics,SKU-00364,Fasteners,50.3,2.96,2.42
+Cobalt Hydraulics,SKU-00132,Interior Trim,45.6,3.2,2.95
+Pinnacle Fasteners Co,SKU-00404,Sensors,55.9,2.4,17.94
+Atlas Suspension Ltd,SKU-00404,Sensors,47.7,3.13,2.43
+Horizon Interior Trim,SKU-00317,Exhaust Systems,48.0,1.76,2.76
+Meridian Electronics,SKU-00402,Exhaust Systems,79.1,2.13,2.26
+Falcon Wiring Harness,SKU-00301,Transmission Parts,39.6,2.01,3.44
+Silverline Plastics,SKU-00197,Transmission Parts,36.9,2.03,0.93
+Silverline Plastics,SKU-00384,Brake Systems,35.9,0.79,2.71
+Vanguard Brake Systems,SKU-00435,Body & Chassis,78.6,2.13,0.87
+NorthStar Exhaust Systems,SKU-00438,Sensors,55.8,1.77,3.24
+Meridian Electronics,SKU-00111,Brake Systems,41.6,1.87,2.06
+Meridian Electronics,SKU-00352,Engine Components,54.1,2.27,1.8
+Pinnacle Fasteners Co,SKU-00003,Suspension,42.6,1.23,14.77
+EverTrust Powertrain,SKU-00298,Body & Chassis,23.6,2.06,2.81
+Silverline Plastics,SKU-00298,Body & Chassis,48.6,3.09,2.15
+Granite Bearing Co,SKU-00190,Transmission Parts,59.0,3.42,2.56
+NorthStar Exhaust Systems,SKU-00517,Fasteners,56.1,3.25,1.85
+Titan Forge Industries,SKU-00460,Electrical Systems,28.9,2.92,2.64
+NorthStar Exhaust Systems,SKU-00021,Interior Trim,58.1,1.56,1.47
+NorthStar Exhaust Systems,SKU-00109,Body & Chassis,50.5,2.43,0.69
+Horizon Interior Trim,SKU-00109,Body & Chassis,49.5,0.65,1.44
+IronClad Metal Works,SKU-00467,Electrical Systems,61.2,24.21,1.23
+IronClad Metal Works,SKU-00270,Interior Trim,41.0,16.19,3.62
+EverTrust Powertrain,SKU-00380,Brake Systems,39.1,2.02,3.44
+Titan Forge Industries,SKU-00422,Suspension,40.5,3.22,1.02
+EverTrust Powertrain,SKU-00400,Transmission Parts,42.9,0.84,1.36
+Pinnacle Fasteners Co,SKU-00047,Body & Chassis,55.1,2.45,12.48
+Crestline Components,SKU-00073,Body & Chassis,36.0,2.28,2.44
+Meridian Electronics,SKU-00206,Brake Systems,56.8,0.0,1.53
+Meridian Electronics,SKU-00176,Body & Chassis,46.9,2.4,2.52
+Apex Drivetrain Solutions,SKU-00389,Fasteners,190.7,10.09,1.78
+IronClad Metal Works,SKU-00082,Body & Chassis,42.1,21.17,1.61
+Silverline Plastics,SKU-00194,Transmission Parts,44.2,2.68,3.45
+Vanguard Brake Systems,SKU-00124,Body & Chassis,41.4,3.46,3.19
+BlueRidge Rubber & Seals,SKU-00099,Suspension,44.2,2.29,1.94
+Titan Forge Industries,SKU-00090,Fasteners,41.9,3.35,2.38
+Atlas Suspension Ltd,SKU-00102,Electrical Systems,47.8,1.37,1.43
+NorthStar Exhaust Systems,SKU-00294,Transmission Parts,70.7,2.32,1.58
+Pinnacle Fasteners Co,SKU-00214,Body & Chassis,62.2,2.78,15.35
+EverTrust Powertrain,SKU-00227,Fasteners,43.3,2.18,2.06
+Cobalt Hydraulics,SKU-00250,Engine Components,28.4,2.41,2.44
+Falcon Wiring Harness,SKU-00386,Electrical Systems,67.2,2.59,0.33
+Titan Forge Industries,SKU-00449,Interior Trim,43.9,5.24,2.89
+IronClad Metal Works,SKU-00274,Sensors,35.3,18.66,1.61
+Silverline Plastics,SKU-00334,Fasteners,28.8,2.15,2.27
+Vanguard Brake Systems,SKU-00385,Engine Components,22.5,1.35,2.21
+Volt Precision Parts,SKU-00360,Exhaust Systems,287.6,2.89,1.23
+Vanguard Brake Systems,SKU-00070,Body & Chassis,53.6,1.32,3.51
+Cobalt Hydraulics,SKU-00512,Exhaust Systems,24.4,1.41,2.53
+BlueRidge Rubber & Seals,SKU-00086,Exhaust Systems,65.0,2.82,2.65
+Granite Bearing Co,SKU-00215,Exhaust Systems,45.2,1.47,1.81
+Granite Bearing Co,SKU-00340,Sensors,30.5,1.22,2.52
+Meridian Electronics,SKU-00210,Exhaust Systems,31.5,2.82,1.16
+Silverline Plastics,SKU-00127,Engine Components,48.6,2.01,3.33
+Horizon Interior Trim,SKU-00481,Brake Systems,48.9,3.74,1.6
+Orion Chassis Works,SKU-00038,Fasteners,45.7,1.52,1.87
+Apex Drivetrain Solutions,SKU-00128,Exhaust Systems,169.5,8.82,1.23
+EverTrust Powertrain,SKU-00517,Fasteners,28.0,0.16,1.35
+Summit Casting Group,SKU-00380,Brake Systems,52.5,0.9,1.11
+Volt Precision Parts,SKU-00046,Sensors,408.5,1.86,2.46
+Horizon Interior Trim,SKU-00393,Transmission Parts,52.7,3.16,0.98
+IronClad Metal Works,SKU-00505,Brake Systems,42.2,8.72,4.16
+IronClad Metal Works,SKU-00051,Exhaust Systems,25.9,11.28,1.37
+Orion Chassis Works,SKU-00216,Brake Systems,27.0,3.85,4.14
+Quantum Sensor Corp,SKU-00244,Suspension,39.3,1.18,0.41
+Silverline Plastics,SKU-00069,Engine Components,42.1,2.18,1.68
+Vanguard Brake Systems,SKU-00105,Exhaust Systems,47.7,2.9,2.46
+Falcon Wiring Harness,SKU-00091,Body & Chassis,41.2,1.4,2.73
+Horizon Interior Trim,SKU-00097,Brake Systems,45.2,3.39,2.83
+Orion Chassis Works,SKU-00210,Exhaust Systems,27.9,1.07,1.6
+BlueRidge Rubber & Seals,SKU-00242,Interior Trim,32.3,3.26,2.48
+Titan Forge Industries,SKU-00124,Body & Chassis,58.2,2.9,2.37
+EverTrust Powertrain,SKU-00151,Fasteners,59.4,2.97,2.25
+Vanguard Brake Systems,SKU-00100,Electrical Systems,62.8,2.62,1.96
+Pinnacle Fasteners Co,SKU-00414,Electrical Systems,34.9,3.2,17.46
+Orion Chassis Works,SKU-00111,Brake Systems,44.4,3.81,0.62
+Cobalt Hydraulics,SKU-00472,Fasteners,44.3,2.46,1.62
+Volt Precision Parts,SKU-00281,Brake Systems,441.1,2.43,1.87
+Horizon Interior Trim,SKU-00418,Electrical Systems,45.3,0.5,1.59
+Silverline Plastics,SKU-00331,Interior Trim,56.8,1.87,1.54
+Granite Bearing Co,SKU-00139,Transmission Parts,60.7,3.84,2.61
+EverTrust Powertrain,SKU-00313,Electrical Systems,39.5,2.26,1.56
+NorthStar Exhaust Systems,SKU-00143,Brake Systems,33.1,1.46,1.71
+Orion Chassis Works,SKU-00062,Exhaust Systems,32.6,0.94,2.38
+Summit Casting Group,SKU-00133,Engine Components,47.8,4.2,1.67
+EverTrust Powertrain,SKU-00144,Body & Chassis,48.6,2.81,2.0
+Quantum Sensor Corp,SKU-00071,Exhaust Systems,53.9,3.28,2.46
+Falcon Wiring Harness,SKU-00013,Exhaust Systems,41.9,2.14,1.11
+Atlas Suspension Ltd,SKU-00491,Sensors,35.3,1.88,1.3
+Crestline Components,SKU-00267,Body & Chassis,50.3,3.7,1.47
+Falcon Wiring Harness,SKU-00210,Exhaust Systems,48.4,1.47,1.96
+NorthStar Exhaust Systems,SKU-00484,Exhaust Systems,36.7,3.1,1.66
+Silverline Plastics,SKU-00117,Engine Components,57.1,2.25,1.68
+Atlas Suspension Ltd,SKU-00210,Exhaust Systems,30.0,2.75,2.92
+Orion Chassis Works,SKU-00441,Sensors,48.3,4.74,3.34
+Vanguard Brake Systems,SKU-00329,Electrical Systems,41.3,2.18,2.58
+Atlas Suspension Ltd,SKU-00208,Sensors,34.9,3.67,2.49
+Horizon Interior Trim,SKU-00134,Interior Trim,48.1,3.19,3.58
+IronClad Metal Works,SKU-00019,Fasteners,47.1,15.49,3.41
+Volt Precision Parts,SKU-00045,Engine Components,363.2,2.18,2.2
+Orion Chassis Works,SKU-00085,Suspension,47.3,2.86,1.11
+Orion Chassis Works,SKU-00410,Engine Components,26.5,1.61,1.43
+Orion Chassis Works,SKU-00333,Transmission Parts,37.3,3.13,2.06
+Apex Drivetrain Solutions,SKU-00226,Transmission Parts,187.9,7.33,1.83
+Vanguard Brake Systems,SKU-00408,Electrical Systems,52.0,3.09,1.62
+Meridian Electronics,SKU-00084,Fasteners,46.9,4.7,2.19
+Granite Bearing Co,SKU-00110,Exhaust Systems,36.7,2.33,2.27
+Silverline Plastics,SKU-00205,Body & Chassis,43.2,2.47,1.05
+Meridian Electronics,SKU-00478,Engine Components,33.4,2.35,2.07
+Orion Chassis Works,SKU-00320,Exhaust Systems,38.2,2.32,2.25
+IronClad Metal Works,SKU-00443,Electrical Systems,55.7,15.55,2.52
+Summit Casting Group,SKU-00130,Suspension,38.5,3.07,2.5
+IronClad Metal Works,SKU-00442,Transmission Parts,55.4,19.21,2.67
+Summit Casting Group,SKU-00038,Fasteners,43.8,2.74,3.05
+Orion Chassis Works,SKU-00119,Brake Systems,37.2,1.87,2.35
+Silverline Plastics,SKU-00272,Engine Components,50.0,1.68,2.14
+Meridian Electronics,SKU-00027,Body & Chassis,43.9,0.28,2.02
+Crestline Components,SKU-00447,Transmission Parts,43.1,2.34,3.33
+Falcon Wiring Harness,SKU-00452,Sensors,30.4,1.68,0.11
+EverTrust Powertrain,SKU-00282,Body & Chassis,39.2,2.1,1.79
+BlueRidge Rubber & Seals,SKU-00160,Exhaust Systems,58.3,3.36,2.26
+Meridian Electronics,SKU-00052,Electrical Systems,40.6,3.53,2.18
+BlueRidge Rubber & Seals,SKU-00322,Electrical Systems,35.2,0.78,1.85
+Vanguard Brake Systems,SKU-00280,Engine Components,54.1,4.78,2.25
+EverTrust Powertrain,SKU-00396,Fasteners,35.8,1.32,2.64
+Atlas Suspension Ltd,SKU-00314,Brake Systems,23.8,3.05,2.85
+Orion Chassis Works,SKU-00067,Sensors,50.2,2.28,2.65
+Apex Drivetrain Solutions,SKU-00064,Sensors,186.8,8.67,3.68
+Atlas Suspension Ltd,SKU-00407,Body & Chassis,40.8,3.28,0.27
+Silverline Plastics,SKU-00083,Electrical Systems,60.3,3.97,2.22
+BlueRidge Rubber & Seals,SKU-00489,Exhaust Systems,51.7,3.06,1.69
+Horizon Interior Trim,SKU-00056,Engine Components,51.6,1.69,1.71
+EverTrust Powertrain,SKU-00379,Transmission Parts,58.5,3.47,1.63
+Silverline Plastics,SKU-00508,Brake Systems,36.2,1.85,2.79
+Vanguard Brake Systems,SKU-00230,Electrical Systems,33.0,2.86,2.8
+Crestline Components,SKU-00030,Body & Chassis,43.9,3.51,1.96
+Titan Forge Industries,SKU-00456,Interior Trim,42.4,1.52,3.01
+Orion Chassis Works,SKU-00098,Suspension,35.8,2.85,2.14
+Vanguard Brake Systems,SKU-00275,Body & Chassis,32.4,1.89,3.31
+Meridian Electronics,SKU-00512,Exhaust Systems,47.4,1.49,2.44
+Silverline Plastics,SKU-00388,Fasteners,43.2,5.95,2.43
+Silverline Plastics,SKU-00025,Exhaust Systems,40.4,3.92,0.73
+Cobalt Hydraulics,SKU-00427,Fasteners,46.1,4.49,2.11
+EverTrust Powertrain,SKU-00084,Fasteners,24.2,2.1,3.36
+Falcon Wiring Harness,SKU-00390,Electrical Systems,49.5,1.66,1.65
+Granite Bearing Co,SKU-00323,Suspension,38.3,2.86,3.27
+Granite Bearing Co,SKU-00150,Engine Components,57.6,2.96,1.13
+Titan Forge Industries,SKU-00221,Electrical Systems,29.1,3.03,1.12
+Horizon Interior Trim,SKU-00062,Exhaust Systems,42.3,2.8,1.29
+Meridian Electronics,SKU-00514,Fasteners,32.7,2.41,2.6
+Orion Chassis Works,SKU-00124,Body & Chassis,57.7,3.11,2.26
+Summit Casting Group,SKU-00161,Sensors,36.0,1.43,1.79
+Meridian Electronics,SKU-00262,Electrical Systems,49.9,2.84,0.52
+BlueRidge Rubber & Seals,SKU-00350,Electrical Systems,35.6,3.7,2.26
+Atlas Suspension Ltd,SKU-00263,Brake Systems,28.0,4.86,2.18
+Meridian Electronics,SKU-00263,Brake Systems,49.6,2.9,1.91
+Cobalt Hydraulics,SKU-00303,Engine Components,36.3,4.62,3.0
+Silverline Plastics,SKU-00447,Transmission Parts,54.9,3.08,1.4
+Pinnacle Fasteners Co,SKU-00206,Brake Systems,60.3,1.66,14.41
+Apex Drivetrain Solutions,SKU-00433,Fasteners,114.4,4.88,2.45
+Vanguard Brake Systems,SKU-00410,Engine Components,35.3,0.51,2.63
+Cobalt Hydraulics,SKU-00500,Body & Chassis,70.4,3.89,1.99
+Cobalt Hydraulics,SKU-00475,Suspension,45.1,3.39,3.1
+IronClad Metal Works,SKU-00416,Suspension,40.9,16.15,2.44
+Granite Bearing Co,SKU-00129,Interior Trim,51.6,2.37,2.1
+IronClad Metal Works,SKU-00403,Transmission Parts,61.6,21.44,2.58
+Quantum Sensor Corp,SKU-00383,Sensors,65.6,2.11,3.5
+EverTrust Powertrain,SKU-00151,Fasteners,51.5,5.77,1.25
+Pinnacle Fasteners Co,SKU-00353,Brake Systems,36.7,2.92,14.77
+IronClad Metal Works,SKU-00132,Interior Trim,68.4,12.99,2.92
+Atlas Suspension Ltd,SKU-00273,Electrical Systems,58.9,3.2,1.43
+BlueRidge Rubber & Seals,SKU-00415,Engine Components,61.9,3.73,2.68
+EverTrust Powertrain,SKU-00099,Suspension,47.5,2.73,2.14
+EverTrust Powertrain,SKU-00176,Body & Chassis,52.7,2.53,1.52
+Volt Precision Parts,SKU-00414,Electrical Systems,252.3,1.75,2.38
+IronClad Metal Works,SKU-00236,Exhaust Systems,44.7,16.97,2.6
+Granite Bearing Co,SKU-00500,Body & Chassis,37.5,3.97,1.99
+Meridian Electronics,SKU-00005,Body & Chassis,39.8,2.98,0.73
+Silverline Plastics,SKU-00376,Engine Components,35.5,3.48,0.81
+Orion Chassis Works,SKU-00424,Interior Trim,58.4,4.01,1.9
+IronClad Metal Works,SKU-00478,Engine Components,48.5,21.04,1.83
+Cobalt Hydraulics,SKU-00082,Body & Chassis,55.4,1.83,1.82
+Pinnacle Fasteners Co,SKU-00512,Exhaust Systems,35.4,2.84,17.21
+Atlas Suspension Ltd,SKU-00204,Suspension,42.8,1.23,1.33
+Crestline Components,SKU-00184,Suspension,49.7,4.34,2.51
+NorthStar Exhaust Systems,SKU-00185,Body & Chassis,40.4,3.27,2.01
+Orion Chassis Works,SKU-00332,Transmission Parts,40.5,1.54,3.33
+Orion Chassis Works,SKU-00343,Suspension,14.5,3.3,1.83
+EverTrust Powertrain,SKU-00247,Exhaust Systems,40.1,4.19,1.63
+EverTrust Powertrain,SKU-00037,Fasteners,36.8,2.37,2.53
+NorthStar Exhaust Systems,SKU-00514,Fasteners,39.7,0.93,1.51
+Volt Precision Parts,SKU-00116,Interior Trim,380.5,2.57,2.56
+Falcon Wiring Harness,SKU-00049,Suspension,41.9,1.84,3.54
+EverTrust Powertrain,SKU-00311,Suspension,42.7,2.06,3.08
+Vanguard Brake Systems,SKU-00215,Exhaust Systems,36.3,1.91,2.21
+Horizon Interior Trim,SKU-00321,Transmission Parts,45.0,2.76,3.87
+Atlas Suspension Ltd,SKU-00456,Interior Trim,49.0,0.12,2.46
+Volt Precision Parts,SKU-00051,Exhaust Systems,312.1,2.54,2.4
+Orion Chassis Works,SKU-00148,Brake Systems,44.7,2.45,2.69
+Vanguard Brake Systems,SKU-00269,Suspension,38.5,1.55,4.62
+Granite Bearing Co,SKU-00410,Engine Components,36.4,2.6,1.0
+Cobalt Hydraulics,SKU-00313,Electrical Systems,46.4,1.57,1.85
+Cobalt Hydraulics,SKU-00200,Sensors,57.5,2.97,2.65
+Atlas Suspension Ltd,SKU-00318,Exhaust Systems,23.7,4.34,1.25
+Vanguard Brake Systems,SKU-00510,Brake Systems,63.3,3.52,2.66
+Granite Bearing Co,SKU-00250,Engine Components,34.7,2.65,1.82
+Cobalt Hydraulics,SKU-00460,Electrical Systems,45.3,2.25,0.57
+Titan Forge Industries,SKU-00406,Interior Trim,58.5,2.42,1.81
+Silverline Plastics,SKU-00157,Electrical Systems,38.3,2.86,1.48
+IronClad Metal Works,SKU-00130,Suspension,17.9,17.83,2.62
+Silverline Plastics,SKU-00401,Sensors,42.6,1.35,2.27
+Volt Precision Parts,SKU-00108,Suspension,229.5,1.47,1.6
+IronClad Metal Works,SKU-00176,Body & Chassis,55.1,14.37,1.84
+NorthStar Exhaust Systems,SKU-00123,Suspension,68.5,2.85,2.47
+Volt Precision Parts,SKU-00316,Suspension,289.7,1.9,0.45
+Volt Precision Parts,SKU-00153,Sensors,363.3,2.95,2.06
+Apex Drivetrain Solutions,SKU-00343,Suspension,174.5,13.21,0.96
+Horizon Interior Trim,SKU-00487,Transmission Parts,37.9,1.36,3.62
+Granite Bearing Co,SKU-00432,Exhaust Systems,55.5,0.3,0.99
+Apex Drivetrain Solutions,SKU-00493,Exhaust Systems,174.7,9.58,1.14
+Orion Chassis Works,SKU-00013,Exhaust Systems,68.3,2.81,2.58
+Cobalt Hydraulics,SKU-00237,Suspension,36.7,3.22,1.9
+Pinnacle Fasteners Co,SKU-00115,Interior Trim,41.6,3.11,8.29
+IronClad Metal Works,SKU-00478,Engine Components,64.2,16.82,3.22
+Silverline Plastics,SKU-00371,Transmission Parts,32.1,1.58,1.27
+Cobalt Hydraulics,SKU-00167,Transmission Parts,48.0,2.57,1.83
+Crestline Components,SKU-00294,Transmission Parts,32.8,1.23,2.16
+Cobalt Hydraulics,SKU-00315,Brake Systems,39.4,1.81,3.44
+Volt Precision Parts,SKU-00258,Electrical Systems,305.5,3.77,1.77
+Quantum Sensor Corp,SKU-00247,Exhaust Systems,47.9,2.44,0.84
+Falcon Wiring Harness,SKU-00029,Interior Trim,62.1,2.36,2.8
+Meridian Electronics,SKU-00236,Exhaust Systems,36.0,2.34,1.51
+Granite Bearing Co,SKU-00182,Electrical Systems,59.8,2.81,2.49
+NorthStar Exhaust Systems,SKU-00426,Electrical Systems,61.3,3.66,2.81
+Granite Bearing Co,SKU-00450,Brake Systems,27.9,1.8,1.4
+Titan Forge Industries,SKU-00391,Exhaust Systems,53.7,2.67,1.09
+Quantum Sensor Corp,SKU-00017,Interior Trim,42.7,1.01,2.16
+Meridian Electronics,SKU-00438,Sensors,25.1,3.03,2.5
+Meridian Electronics,SKU-00207,Exhaust Systems,67.9,3.35,1.86
+Granite Bearing Co,SKU-00217,Engine Components,54.8,1.1,1.43
+IronClad Metal Works,SKU-00492,Fasteners,49.0,6.29,2.17
+Volt Precision Parts,SKU-00451,Sensors,253.9,2.6,1.34
+Pinnacle Fasteners Co,SKU-00027,Body & Chassis,50.1,2.52,17.98
+Pinnacle Fasteners Co,SKU-00188,Transmission Parts,45.1,1.73,12.71
+Cobalt Hydraulics,SKU-00390,Electrical Systems,28.9,2.91,2.67
+Atlas Suspension Ltd,SKU-00281,Brake Systems,74.6,1.88,1.99
+EverTrust Powertrain,SKU-00134,Interior Trim,38.1,2.71,2.51
+IronClad Metal Works,SKU-00273,Electrical Systems,44.4,20.89,1.71
+Orion Chassis Works,SKU-00451,Sensors,56.8,3.04,2.19
+Horizon Interior Trim,SKU-00117,Engine Components,41.2,4.93,1.55
+Quantum Sensor Corp,SKU-00388,Fasteners,48.6,1.75,3.63
+Silverline Plastics,SKU-00383,Sensors,55.6,1.82,2.61
+EverTrust Powertrain,SKU-00461,Exhaust Systems,48.1,1.98,2.81
+Silverline Plastics,SKU-00155,Body & Chassis,49.7,2.72,2.17
+Pinnacle Fasteners Co,SKU-00113,Interior Trim,50.2,2.73,13.69
+Meridian Electronics,SKU-00285,Body & Chassis,37.3,4.19,1.36
+Orion Chassis Works,SKU-00277,Body & Chassis,50.1,2.18,3.61
+Summit Casting Group,SKU-00213,Exhaust Systems,34.2,1.76,1.42
+Falcon Wiring Harness,SKU-00406,Interior Trim,48.9,1.13,1.82
+Crestline Components,SKU-00416,Suspension,19.2,2.74,1.8
+Crestline Components,SKU-00128,Exhaust Systems,27.1,3.59,1.15
+Cobalt Hydraulics,SKU-00414,Electrical Systems,54.6,1.8,3.48
+Falcon Wiring Harness,SKU-00120,Electrical Systems,54.0,1.49,1.47
+Apex Drivetrain Solutions,SKU-00212,Exhaust Systems,204.2,10.21,2.06
+Volt Precision Parts,SKU-00015,Exhaust Systems,380.0,1.75,2.27
+BlueRidge Rubber & Seals,SKU-00178,Electrical Systems,56.5,3.31,2.07
+Titan Forge Industries,SKU-00499,Sensors,41.5,0.76,1.36
+Meridian Electronics,SKU-00231,Body & Chassis,48.8,2.36,2.26
+Atlas Suspension Ltd,SKU-00370,Exhaust Systems,57.5,1.31,2.01
+Granite Bearing Co,SKU-00057,Interior Trim,47.3,1.8,3.35
+Cobalt Hydraulics,SKU-00331,Interior Trim,55.9,2.79,3.64
+Crestline Components,SKU-00194,Transmission Parts,27.0,2.49,2.49
+Quantum Sensor Corp,SKU-00387,Engine Components,34.0,2.8,1.31
+Meridian Electronics,SKU-00483,Brake Systems,53.3,3.56,2.42
+NorthStar Exhaust Systems,SKU-00277,Body & Chassis,22.8,1.53,2.65
+Vanguard Brake Systems,SKU-00054,Body & Chassis,45.3,0.0,3.19
+Crestline Components,SKU-00248,Body & Chassis,46.6,1.68,3.0
+Orion Chassis Works,SKU-00065,Body & Chassis,36.9,1.81,2.49
+Volt Precision Parts,SKU-00234,Exhaust Systems,408.0,4.12,2.49
+Apex Drivetrain Solutions,SKU-00032,Brake Systems,198.5,13.37,1.19
+Meridian Electronics,SKU-00334,Fasteners,52.7,1.77,2.45
+Silverline Plastics,SKU-00162,Suspension,42.3,3.0,2.29
+Orion Chassis Works,SKU-00105,Exhaust Systems,8.1,2.68,2.71
+Pinnacle Fasteners Co,SKU-00009,Brake Systems,50.4,2.4,18.75
+Silverline Plastics,SKU-00462,Electrical Systems,48.7,2.94,3.04
+Titan Forge Industries,SKU-00436,Electrical Systems,49.4,1.6,0.25
+Titan Forge Industries,SKU-00423,Exhaust Systems,39.3,3.26,1.92
+EverTrust Powertrain,SKU-00031,Body & Chassis,54.6,2.65,3.23
+Volt Precision Parts,SKU-00182,Electrical Systems,293.8,2.97,2.6
+Meridian Electronics,SKU-00506,Body & Chassis,63.0,0.79,1.83
+BlueRidge Rubber & Seals,SKU-00301,Transmission Parts,55.2,4.05,2.39
+Meridian Electronics,SKU-00067,Sensors,41.5,3.26,2.89
+Orion Chassis Works,SKU-00074,Electrical Systems,40.7,2.83,3.14
+Meridian Electronics,SKU-00137,Suspension,67.7,3.24,2.24
+Volt Precision Parts,SKU-00506,Body & Chassis,307.0,3.06,2.11
+Meridian Electronics,SKU-00089,Exhaust Systems,47.3,1.44,3.24
+Atlas Suspension Ltd,SKU-00470,Sensors,31.3,2.07,2.28
+Pinnacle Fasteners Co,SKU-00353,Brake Systems,68.9,2.08,11.37
+IronClad Metal Works,SKU-00480,Electrical Systems,38.4,23.47,0.0
+Silverline Plastics,SKU-00430,Exhaust Systems,33.0,5.23,2.67
+Vanguard Brake Systems,SKU-00173,Exhaust Systems,31.7,2.46,2.25
+Quantum Sensor Corp,SKU-00431,Engine Components,55.2,4.34,2.51
+Volt Precision Parts,SKU-00088,Transmission Parts,280.3,3.29,1.64
+Quantum Sensor Corp,SKU-00152,Brake Systems,32.6,0.74,0.95
+Meridian Electronics,SKU-00111,Brake Systems,34.2,1.32,2.45
+BlueRidge Rubber & Seals,SKU-00070,Body & Chassis,30.6,0.0,1.36
+Meridian Electronics,SKU-00047,Body & Chassis,39.3,1.89,3.42
+Silverline Plastics,SKU-00098,Suspension,37.6,3.38,2.18
+EverTrust Powertrain,SKU-00063,Transmission Parts,44.5,1.66,2.15
+Volt Precision Parts,SKU-00198,Electrical Systems,267.9,2.67,2.01
+Volt Precision Parts,SKU-00038,Fasteners,258.0,3.49,2.54
+IronClad Metal Works,SKU-00032,Brake Systems,39.6,16.65,2.13
+BlueRidge Rubber & Seals,SKU-00515,Sensors,34.6,2.57,1.7
+IronClad Metal Works,SKU-00046,Sensors,33.7,8.7,1.91
+Silverline Plastics,SKU-00039,Brake Systems,51.8,1.81,4.22
+Granite Bearing Co,SKU-00016,Exhaust Systems,55.6,3.8,2.84
+Cobalt Hydraulics,SKU-00069,Engine Components,67.2,1.71,0.15
+NorthStar Exhaust Systems,SKU-00275,Body & Chassis,39.6,3.06,2.32
+EverTrust Powertrain,SKU-00431,Engine Components,48.3,3.82,2.51
+Volt Precision Parts,SKU-00383,Sensors,353.9,1.56,1.32
+Atlas Suspension Ltd,SKU-00302,Fasteners,64.4,2.6,1.7
+Vanguard Brake Systems,SKU-00045,Engine Components,37.5,1.85,1.63
+EverTrust Powertrain,SKU-00403,Transmission Parts,29.6,1.0,2.04
+BlueRidge Rubber & Seals,SKU-00020,Body & Chassis,37.9,3.61,2.43
+Cobalt Hydraulics,SKU-00329,Electrical Systems,48.2,1.76,2.1
+Pinnacle Fasteners Co,SKU-00213,Exhaust Systems,49.3,3.22,13.2
+EverTrust Powertrain,SKU-00459,Fasteners,57.9,2.51,2.83
+NorthStar Exhaust Systems,SKU-00160,Exhaust Systems,39.1,0.69,2.41
+Titan Forge Industries,SKU-00333,Transmission Parts,53.7,3.08,2.54
+EverTrust Powertrain,SKU-00229,Interior Trim,40.8,1.69,2.64
+Quantum Sensor Corp,SKU-00272,Engine Components,50.1,1.94,3.09
+Atlas Suspension Ltd,SKU-00489,Exhaust Systems,34.4,1.92,3.51
+BlueRidge Rubber & Seals,SKU-00371,Transmission Parts,55.4,2.14,2.43
+IronClad Metal Works,SKU-00216,Brake Systems,46.9,3.64,1.47
+Vanguard Brake Systems,SKU-00233,Engine Components,44.4,2.14,2.4
+Pinnacle Fasteners Co,SKU-00367,Body & Chassis,58.6,2.18,10.12
+Volt Precision Parts,SKU-00180,Interior Trim,327.9,2.17,2.08
+Silverline Plastics,SKU-00088,Transmission Parts,41.5,4.74,0.41
+BlueRidge Rubber & Seals,SKU-00244,Suspension,40.3,2.5,1.58
